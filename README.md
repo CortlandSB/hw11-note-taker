@@ -1,3 +1,3 @@
-# 11 Express.js: Note Taker
+# Note Taker
 
 Application that write and saves notes.
